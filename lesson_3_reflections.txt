@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+to have access to the last updated version of the project
+to share the last updated version to others so they can start contributing with an up-to-date version of my work
