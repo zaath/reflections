@@ -5,3 +5,8 @@ to share the last updated version to others so they can start contributing with 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Some versions of your code might still be draft ones and you don't want everyone involved in the project to work with your updated version yet.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are to clone but on GitHub without any intermediate
+Clone is to copy with all commits the repository
+Branches are to work on different versions of the code, to try other stuff without impacting the working code (called master with good practices).
