@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
 
 to have access to the last updated version of the project
 to share the last updated version to others so they can start contributing with an up-to-date version of my work
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Some versions of your code might still be draft ones and you don't want everyone involved in the project to work with your updated version yet.
